@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Starbucks Passport</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_welcome">¡Welcome!</string>
+    <string name="tv_app_description">In this application you will explore all the coffees available on Starbucks Coffee.</string>
+    <string name="btn_explore">Explore</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_coffee">Coffee</string>
+    <string name="title_tea">Tea</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="coffee_title_list">See all the coffees available:</string>
+    <string name="tea_title_list">See all the teas available:</string>
+
+</resources>
