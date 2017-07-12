@@ -48,6 +48,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.explore_button:
                 Intent explorar = new Intent(this, NavigationActivity.class);
+                finish();
                 startActivity(explorar);
                 break;
         }

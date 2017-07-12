@@ -7,8 +7,9 @@
     <string name="title_activity_navigation">NavigationActivity</string>
     <string name="title_coffee">Coffee</string>
     <string name="title_tea">Tea</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
     <string name="coffee_title_list">See all the coffees available:</string>
     <string name="tea_title_list">See all the teas available:</string>
+    <string name="profile_title_list">See your profile information: </string>
 
 </resources>
